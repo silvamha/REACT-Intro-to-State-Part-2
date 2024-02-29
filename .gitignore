@@ -1,0 +1,7 @@
+node_modules
+*.txt
+*.md 
+*.pdf
+dist
+secrets.js
+sectrest.jsx
